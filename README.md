@@ -1,4 +1,4 @@
-# Forage (British Airways Data Scientist Virtual Internship)
+# Forage (British Airways Data Scientist)
 
 ## British Airways Customer Feedback Analysis
 
