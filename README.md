@@ -1,4 +1,4 @@
-# Forage (British Airways Data Scientist)
+# British Airways - Data Scientist
 
 ![British Airways](https://media.cntraveler.com/photos/577fcc03e0b5a6244f4c789c/16:9/w_2560%2Cc_limit/BritishAirways-Boeing777-AlamyF1KW8J.jpg)
 
@@ -125,3 +125,4 @@ Data obtained from British Airways. different from before where we got data from
 ##### Final Presentation
 ![Final task 2](https://github.com/user-attachments/assets/abeecbf4-95e8-40be-9ab9-9fbb54ec5287)
 
+###### from Forage.com
